@@ -12,7 +12,7 @@
 				<tool>ADE</tool>
 				<tooloptions>
 					<option>cell
-						<value>levelshift-test</value>
+						<value>levelshift_test</value>
 					</option>
 					<option>lib
 						<value>ECE4530_Final_Project</value>
@@ -57,7 +57,7 @@
 				<value>no</value>
 			</plottingoption>
 			<plottingoption>useMaestroPlottingTemplate
-				<value>yes</value>
+				<value>no</value>
 			</plottingoption>
 			<plottingoption>allplottingtemplates
 				<value></value>
