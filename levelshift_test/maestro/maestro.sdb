@@ -30,6 +30,23 @@
 						<value>active</value>
 					</option>
 				</tooloptions>
+				<vars>
+					<var>RL
+						<value>100M</value>
+					</var>
+					<var>vhigh
+						<value>3.3</value>
+					</var>
+					<var>vlow
+						<value>1</value>
+					</var>
+					<var>Wn
+						<value>1u</value>
+					</var>
+					<var>Wp
+						<value>120n</value>
+					</var>
+				</vars>
 			</test>
 		</tests>
 		<extensions>
@@ -45,7 +62,7 @@
 		</checksasserts>
 		<plottingoptions>
 			<plottingoption>waveformtemplate
-				<value></value>
+				<value>(None)</value>
 			</plottingoption>
 			<plottingoption>plottingmode
 				<value>Replace</value>
@@ -57,7 +74,7 @@
 				<value>no</value>
 			</plottingoption>
 			<plottingoption>useMaestroPlottingTemplate
-				<value>no</value>
+				<value>yes</value>
 			</plottingoption>
 			<plottingoption>allplottingtemplates
 				<value></value>
