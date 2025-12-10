@@ -30,7 +30,71 @@
 						<value>active</value>
 					</option>
 				</tooloptions>
-				<vars></vars>
+				<vars>
+					<var>vwidth
+						<value>50n</value>
+					</var>
+					<var>row_width
+						<value>75n</value>
+					</var>
+					<var>rst_pd
+						<value>300n</value>
+					</var>
+					<var>rst_delay
+						<value>0</value>
+					</var>
+					<var>tx_delay
+						<value>75n</value>
+					</var>
+					<var>tx_pd
+						<value>300n</value>
+					</var>
+					<var>row_pd
+						<value>300n</value>
+					</var>
+					<var>row_delay
+						<value>60n</value>
+					</var>
+					<var>vdd
+						<value>3.3</value>
+					</var>
+					<var>vrst
+						<value>3.3</value>
+					</var>
+					<var>ibias1
+						<value>1p</value>
+					</var>
+					<var>ibias2
+						<value>2p</value>
+					</var>
+					<var>ibias3
+						<value>3p</value>
+					</var>
+					<var>ibias4
+						<value>5p</value>
+					</var>
+					<var>ibias5
+						<value>30p</value>
+					</var>
+					<var>ibias6
+						<value>75p</value>
+					</var>
+					<var>ibias7
+						<value>1n</value>
+					</var>
+					<var>ibias8
+						<value>10n</value>
+					</var>
+					<var>CDi
+						<value>1u</value>
+					</var>
+					<var>Wn
+						<value>1u</value>
+					</var>
+					<var>Wp
+						<value>120n</value>
+					</var>
+				</vars>
 				<note>
 					<tooltip></tooltip>
 				</note>
@@ -49,7 +113,7 @@
 		</checksasserts>
 		<plottingoptions>
 			<plottingoption>waveformtemplate
-				<value>(None)</value>
+				<value></value>
 			</plottingoption>
 			<plottingoption>plottingmode
 				<value>Replace</value>
@@ -61,7 +125,7 @@
 				<value>no</value>
 			</plottingoption>
 			<plottingoption>useMaestroPlottingTemplate
-				<value>yes</value>
+				<value>no</value>
 			</plottingoption>
 			<plottingoption>allplottingtemplates
 				<value></value>
