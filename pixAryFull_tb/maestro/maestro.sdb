@@ -12,7 +12,7 @@
 				<tool>ADE</tool>
 				<tooloptions>
 					<option>cell
-						<value>pixCellRow32_tb</value>
+						<value>pixAryFull_tb</value>
 					</option>
 					<option>lib
 						<value>ECE4530_Final_Project</value>
@@ -93,6 +93,21 @@
 					</var>
 					<var>Wp
 						<value>120n</value>
+					</var>
+					<var>C_samp
+						<value>2p</value>
+					</var>
+					<var>calc_signal_delay
+						<value>500n</value>
+					</var>
+					<var>calc_signal_pd
+						<value>300n</value>
+					</var>
+					<var>sample_reset_delay
+						<value>0</value>
+					</var>
+					<var>sample_reset_pd
+						<value>50n</value>
 					</var>
 				</vars>
 				<note>

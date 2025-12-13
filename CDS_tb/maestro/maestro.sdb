@@ -40,6 +40,9 @@
 					<var>m
 						<value>20</value>
 					</var>
+					<var>C_samp
+						<value>2p</value>
+					</var>
 				</vars>
 			</test>
 		</tests>
@@ -68,7 +71,7 @@
 				<value>no</value>
 			</plottingoption>
 			<plottingoption>useMaestroPlottingTemplate
-				<value>yes</value>
+				<value>no</value>
 			</plottingoption>
 			<plottingoption>allplottingtemplates
 				<value></value>
