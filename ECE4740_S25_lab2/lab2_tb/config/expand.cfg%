@@ -1,0 +1,23 @@
+//Revision 36
+//NOTE
+// Default template for spectre
+// Note:
+//      Please remember to replace Top Cell Library, Cell, and View
+//      fields with the actual names used by your design.
+//END_NOTE
+
+config lab2_tb;
+design final_proj.lab2_tb_new:schematic;
+liblist myLib;
+
+viewlist spectre, cmos_sch, \cmos.sch , schematic, veriloga, ahdl, pspice, dspf;
+stoplist spectre;
+
+
+cell labs.wz328_km2224_5x32Decoder binding :schematic;
+cell labs.wz328_km2224_5x32Decoder_gnd binding :av_extracted;
+
+cell ECE4740_S25_lab2.\5x32Decoder  binding :av_extracted;
+
+
+endconfig
