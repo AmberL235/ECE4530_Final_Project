@@ -40,10 +40,7 @@
 					<var>vlow
 						<value>1</value>
 					</var>
-					<var>Wn
-						<value>120n</value>
-					</var>
-					<var>Wp
+					<var>W
 						<value>120n</value>
 					</var>
 				</vars>
