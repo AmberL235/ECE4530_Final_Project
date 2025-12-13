@@ -38,6 +38,11 @@
 						<value>1.5</value>
 					</var>
 				</vars>
+				<outputs>
+					<output>((value(vtime('tran "/B0") 2.9e-05 ?period 3e-05 ?xName "time") + (value(vtime('tran "/B1") 2.9e-05 ?period 3e-05 ?xName "time") * 2) + (value(vtime('tran "/B2") 2.9e-05 ?period 3e-05 ?xName "time") * 4) + (value(vtime('tran "/B3") 2.9e-05 ?period 3e-05 ?xName "time") * 8) + (value(vtime('tran "/B4") 2.9e-05 ?period 3e-05 ?xName "time") * 16) + (value(vtime('tran "/B5") 2.9e-05 ?period 3e-05 ?xName "time") * 32) + (value(vtime('tran "/B6") 2.9e-05 ?period 3e-05 ?xName "time") * 64) + (value(vtime('tran "/B7") 2.9e-05 ?period 3e-05 ?xName "time") * 128)) / 3)
+						<evalType>point</evalType>
+					</output>
+				</outputs>
 			</test>
 		</tests>
 		<extensions>
