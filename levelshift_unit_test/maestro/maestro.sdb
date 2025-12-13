@@ -12,7 +12,7 @@
 				<tool>ADE</tool>
 				<tooloptions>
 					<option>cell
-						<value>levelshift_test</value>
+						<value>levelshift_unit_test</value>
 					</option>
 					<option>lib
 						<value>ECE4530_Final_Project</value>
@@ -30,20 +30,7 @@
 						<value>active</value>
 					</option>
 				</tooloptions>
-				<vars>
-					<var>RL
-						<value>1G</value>
-					</var>
-					<var>vhigh
-						<value>3.3</value>
-					</var>
-					<var>vlow
-						<value>1</value>
-					</var>
-					<var>W
-						<value>120n</value>
-					</var>
-				</vars>
+				<vars></vars>
 			</test>
 		</tests>
 		<extensions>
