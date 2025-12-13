@@ -1,0 +1,16 @@
+#
+# Edit Lock-Stake file. CAUTION: Please do not change.
+#
+# Information about current Edit Lock Owner.
+#
+LockStakeVersion               1.1
+LoginName                      wz328
+HostName                       en-ec-rhel-ph314-06.coecis.cornell.edu
+ProcessIdentifier              134747
+ProcessCreationTime_UTC        1765656932
+ProcessCreationTime_Readable   Sat Dec 13 15:15:32 2025 EST
+AppIdentifier                  OA File System Design Manager
+OSType                         unix
+ReasonForPlacingEditLock       OpenAccess edit lock
+FilePathUsedToEditLock         /home/wz328/ece4530/final_proj/lab2_tb_new/schematic/sch.oa.cdslck
+TimeEditLocked                 Sat Dec 13 15:26:35 2025 EST
