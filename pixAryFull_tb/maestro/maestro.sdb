@@ -38,19 +38,19 @@
 						<value>75n</value>
 					</var>
 					<var>rst_pd
-						<value>300n</value>
+						<value>250n</value>
 					</var>
 					<var>rst_delay
 						<value>0</value>
 					</var>
 					<var>tx_delay
-						<value>75n</value>
+						<value>120n</value>
 					</var>
 					<var>tx_pd
-						<value>300n</value>
+						<value>250n</value>
 					</var>
 					<var>row_pd
-						<value>300n</value>
+						<value>250n</value>
 					</var>
 					<var>row_delay
 						<value>60n</value>
@@ -98,16 +98,16 @@
 						<value>2p</value>
 					</var>
 					<var>calc_signal_delay
-						<value>500n</value>
+						<value>180n</value>
 					</var>
 					<var>calc_signal_pd
-						<value>300n</value>
+						<value>250n</value>
 					</var>
 					<var>sample_reset_delay
-						<value>0</value>
+						<value>60n</value>
 					</var>
 					<var>sample_reset_pd
-						<value>50n</value>
+						<value>250n</value>
 					</var>
 				</vars>
 				<note>
