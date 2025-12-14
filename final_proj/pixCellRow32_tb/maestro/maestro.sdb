@@ -121,6 +121,9 @@
 					<var>TenaRow
 						<value>2n</value>
 					</var>
+					<var>W
+						<value>120n</value>
+					</var>
 				</vars>
 				<note>
 					<tooltip></tooltip>
