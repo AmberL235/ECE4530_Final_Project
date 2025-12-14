@@ -124,6 +124,12 @@
 					<var>W
 						<value>120n</value>
 					</var>
+					<var>VDDH
+						<value>3.3</value>
+					</var>
+					<var>VDDL
+						<value>1</value>
+					</var>
 				</vars>
 				<note>
 					<tooltip></tooltip>
