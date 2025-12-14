@@ -2,9 +2,9 @@
 <setupdb version="7">history
 	<active>Active Setup</active>
 	<history>History
-		<historyentry assemblerOrExplorer="explorer" roOrView="view" runningOrFinished="running">ExplorerRun.0
-			<timestamp>Dec 13 21:11:15 2025</timestamp>
-			<uuid>{2c066a61-9622-4ac7-9ee0-fb8cc8211929}</uuid>
+		<historyentry assemblerOrExplorer="explorer" roOrView="view" runningOrFinished="finished">ExplorerRun.0
+			<timestamp>Dec 13 16:35:18 2025</timestamp>
+			<uuid>{826e0356-c3df-4e63-b142-9f82c639329f}</uuid>
 			<locked>0</locked>
 			<mode>Single Run, Sweeps and Corners</mode>
 			<resultsname>/home/wz328/ece4530/final_proj/pixCellRow32_tb/maestro/results/maestro/$AXL_HISTORY_NAME.rdb</resultsname>
